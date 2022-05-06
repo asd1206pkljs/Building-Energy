@@ -1,9 +1,12 @@
 # Building-Energy
 
 ## 1. Installation
-Download from github\n
-install python 3.9 version\n
-install required libraries\n
+Download from github
+
+install python 3.9 version
+
+install required libraries
+
 
 ## 2. Data
 ## 3. Model
